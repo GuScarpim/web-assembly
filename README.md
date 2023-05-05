@@ -1,2 +1,4 @@
-# web-assembly
-Exemplo de projeto usando web assembly
+# Instructions
+```
+dotnet run
+```
